@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700313547023
+    },
+    {
+      "id": 2,
+      "email": "1@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700659982414
+    },
+    {
+      "id": 3,
+      "email": "12@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700670375848
+    },
+    {
+      "id": 4,
+      "email": "13@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700673522669
+    },
+    {
+      "id": 5,
+      "email": "1@gmail.vom",
+      "password": "12345678Ab",
+      "createdAt": 1700673630728
+    },
+    {
+      "id": 6,
+      "email": "14@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700673723728
+    },
+    {
+      "id": 7,
+      "email": "18@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1700734674768
+    },
+    {
+      "id": 1702128547538,
+      "email": "130@gmail.com",
+      "password": "12345678Ab",
+      "createdAt": 1702128547538
+    }
+  ],
+  "notes": [
+    {
+      "id": 4,
+      "authorId": 2,
+      "title": "Первая заметка нового пользователя",
+      "text": "Я новый пользователь, привет.\nЯ уже устала этим заниматься",
+      "createdAt": 1700898071199
+    },
+    {
+      "id": 3,
+      "authorId": 1,
+      "title": "Первая (третья) заметка",
+      "text": "Третья заметка",
+      "createdAt": 1701002391556
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Первая заметка",
+      "text": "Тело первой заметки. Тестируем edit. Тестируую",
+      "createdAt": 1701002391556
+    },
+    {
+      "id": 2,
+      "authorId": 1,
+      "title": "Вторая заметка",
+      "text": "Измененное тело второй заметки. Тест",
+      "createdAt": 1700825255614
+    }
+  ]
+}
